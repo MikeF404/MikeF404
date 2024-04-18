@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, I'm Mike 👋
 
+- 💻 I'm a Fullstack Developer (with a greater passion towards Backend 💖)
+- 📚 I've just graduated from San Jose State University 🎆
+- 🔍 Looking for a passionate and welcoming team for work or collaboration 🚀
+- 🤖 Besides programming, I enjoy Mechanical and Electrical Engineering, 3D Design and Printing, and trying out new food 🍣
+- 🍿 If you have a fav song, series, or something important I'm available at email, linkedin, or pigeon mail and respond in <10 sec 🐦
 <!--
 **MikeF404/MikeF404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
